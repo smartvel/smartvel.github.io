@@ -1,0 +1,12 @@
+# Site settings
+title: smartvel - Engineering Blog
+email: hello@smartvel.com
+description: ""
+baseurl: ""
+url: "http://engineering.smartvel.com"
+twitter_username: gosmartvel
+github_username:  smartvel
+
+# Build settings
+markdown: kramdown
+permalink: pretty
